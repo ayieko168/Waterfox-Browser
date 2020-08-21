@@ -1,0 +1,1 @@
+A Simple Web Browser built using python PyQt5
